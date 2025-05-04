@@ -2,6 +2,8 @@
 
 This is a full-stack web application for managing appointments. It allows users to book appointments, view their booked appointments, and cancel appointments. Admins can manage available slots and view all appointments.
 
+<img width="1680" alt="Appointment Booking System" src="https://github.com/user-attachments/assets/6e0c1bd8-09ea-4db6-894d-6e35a9c30ed7" />
+
 ---
 
 ## **Features**
